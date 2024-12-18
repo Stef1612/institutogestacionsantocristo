@@ -4172,6 +4172,9 @@ textarea.form-input {
 }
 
 @media (min-width: 576px) {
+	.post-corporate-thumbnail-A {
+		max-width: 26.2%;
+	}
 	.post-corporate-thumbnail-2 {
 		max-width: 36.2%;
 	}
